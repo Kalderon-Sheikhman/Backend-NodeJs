@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author":"Kwaku Duah",
 	"description": "Learning node,express through freecodecamp",
+	"license": "FOSS",
 	"keywords": [ "freecodecamp", "microservice", "guide" ],
 	"dependencies": {
 		"express": "^4.14.0"
